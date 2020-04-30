@@ -12,6 +12,6 @@ If a given line contains words i, i+1, ..., j each with length li and we leave e
 ***Factor of badness in this algorithm is the above sum to power of 2.***
 
 ### reference:
-- https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=21&t=1978s
-- https://www.youtube.com/watch?v=RORuwHiblPc
-- https://www.geeksforgeeks.org/word-wrap-problem-dp-19/
+- [MIT OpenCourseWare](https://www.youtube.com/watch?v=ENyox7kNKeY&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=20)
+- [Youtube](https://www.youtube.com/watch?v=RORuwHiblPc)
+- [GeeksForGreeks](https://www.geeksforgeeks.org/word-wrap-problem-dp-19/)
